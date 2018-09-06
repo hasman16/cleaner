@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c94e117f-49e6-4da5-9ca3-239e0ef4b847" name="project on the VM box" url="http://localhost/cleaner">
+        <fileTransfer port="0" mountedRoot="/var/www/html/cleaner" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
